@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controls Tests Should match snapshot 1`] = `
+<div
+  class="controls panel"
+>
+  <button
+    class="toggle-btn"
+    data-testid="lock-button"
+    disabled=""
+  >
+    Lock Gate
+  </button>
+  <button
+    class="toggle-btn"
+    data-testid="open-button"
+  >
+    Close Gate
+  </button>
+</div>
+`;
